@@ -1,2 +1,7 @@
-# cloud-cybersecurity-homelab
-Cybersecurity Cloud Homelab
+# ☁ Cloud Cybersecurity Homelab
+Deploy an attack/defend cybersecurity homelab.
+
+# Topology 
+Provider: AWS.
+
+![Topology]()
