@@ -16,5 +16,7 @@ Provider: AWS.
 Download Terraform: https://developer.hashicorp.com/terraform/downloads 
 
 `terraform init`: Initialize Terraform.
+
 `terraform plan`: Plan Terraform configuration.
+
 `terraform apply -var="aws-key"`: Specify the public key name created in AWS.
